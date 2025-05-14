@@ -1,0 +1,7 @@
+C:\Users\RC_Student_lab\source\repos\SoundPlayer\bin\Debug\SoundPlayer.exe.config
+C:\Users\RC_Student_lab\source\repos\SoundPlayer\bin\Debug\SoundPlayer.exe
+C:\Users\RC_Student_lab\source\repos\SoundPlayer\bin\Debug\SoundPlayer.pdb
+C:\Users\RC_Student_lab\source\repos\SoundPlayer\obj\Debug\SoundPlayer.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\SoundPlayer\obj\Debug\SoundPlayer.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\SoundPlayer\obj\Debug\SoundPlayer.exe
+C:\Users\RC_Student_lab\source\repos\SoundPlayer\obj\Debug\SoundPlayer.pdb
